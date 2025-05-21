@@ -1,2 +1,2 @@
-# Creature-Title-Renamer
+# "Improved" Titles
 sigma balls
