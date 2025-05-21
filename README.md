@@ -1,5 +1,1 @@
-# sigma creatures
-Replaces Rogues with Sigmas.
-
-Yep. That's it.
-(actually it changes a few other things too)
+Collection of smaller mods that do one or two things.
